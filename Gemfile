@@ -24,6 +24,12 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
-  #gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
-  #gem 'tzinfo'
+  gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+  gem 'tzinfo'
+  gem "jekyll", "3.9.0"
+  gem "jekyll-paginate"
+  gem "jekyll-gist"
+  gem "jekyll-redirect-from"
+  gem "kramdown-parser-gfm"
+  gem "webrick"
 end
