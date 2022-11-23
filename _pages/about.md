@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am postdoctoral research fellow from IBCAD lab under Dr. Ronald Summers guidance at Radiology and Imaging Science Department @ NIH Clinical Center. My research focuses on large-scale medical imaging analysis and medical computer vision. 
+I am postdoctoral research fellow from IBCAD lab under Dr. Ronald Summers guidance at Radiology and Imaging Science Department in NIH Clinical Center. My research focuses on large-scale medical imaging analysis and medical computer vision. 
 
 I got my PhD from Imaging and Data Science Lab under Prof. Gustavo Rohde guidance at University of Virginia. From 2021-2022, I did a research internship with Cardiovascular Imaging team at Siemens Healthineers, Princeton, NJ. Previously, I was a research associate @ ESC Lab under Prof. Wenyao Xu guidance from 2014-2015, University at Buffalo. I got my M.S. degree from University at Buffalo.
 
