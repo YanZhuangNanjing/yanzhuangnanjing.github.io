@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yan Zhuang @ NIH CC"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Yan Zhuang"
 description              : &description "Post-doctoral research fellow at NIH CC"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yan-zhuang-151a52202/"
+  linkedin         : "yan-zhuang-151a52202"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
