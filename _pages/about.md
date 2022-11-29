@@ -43,9 +43,4 @@ You can also find a [full publication list here](https://yanzhuangnanjing.github
 
 Professional Service and Award
 ----- 
-I am a reviwer of Medical Image Analysis, JAMIA, JBHI, ISBI, NIPS ML4HL, NIPS TS4H, NeuroImage Journal.
-
-
-<li>Tea</li>
-<li>Milk</li>
-
+<!--- I am a reviewer of Medical Image Analysis, JAMIA, JBHI, ISBI, NIPS ML4HL, NIPS TS4H, and NeuroImage.-->
