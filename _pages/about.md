@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am postdoctoral research fellow from IBCAD lab under Dr. Ronald Summers guidance at Radiology and Imaging Science Department in NIH Clinical Center. My research focuses on large-scale medical imaging analysis and medical computer vision. 
-
-I got my PhD from Imaging and Data Science Lab under Prof. Gustavo Rohde guidance at University of Virginia. From 2021-2022, I did a research internship with Cardiovascular Imaging team at Siemens Healthineers, Princeton, NJ. Previously, I was a research associate @ ESC Lab under Prof. Wenyao Xu guidance from 2014-2015, University at Buffalo. I got my M.S. degree from University at Buffalo.
+My research interests are optimal transport learning for biomedical imaging analysis and medical computer vision. In addition, I am very interested in smart and connected health. I got my PhD from Imaging and Data Science Lab under Prof. Gustavo Rohde guidance, University of Virginia. Previously, I was a research associate @ ESC Lab under Prof. Wenyao Xu guidance from 2014-2015, University at Buffalo. I got my M.S. degree from University at Buffalo.
 
 
 News
@@ -43,4 +41,3 @@ You can also find a [full publication list here](https://yanzhuangnanjing.github
 
 Professional Service and Award
 ----- 
-<!--- I am a reviewer of Medical Image Analysis, JAMIA, JBHI, ISBI, NIPS ML4HL, NIPS TS4H, and NeuroImage.-->
