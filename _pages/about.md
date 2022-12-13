@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral research fellow at NIH Clinical Center under Dr. Ronald Summers guidance. My research focuses on the large-scale medical imaging analysis and medical computer vision. I got my PhD from Imaging and Data Science Lab under Prof. Gustavo Rohde guidance at University of Virginia. From 2021-2022, I did a research internship with Cardiovascular Imaging team at Siemens Healthineers, Princeton, NJ. Previously, I was a research associate @ ESC Lab under Prof. Wenyao Xu guidance from 2014-2015, University at Buffalo. I got my M.S. degree from University at Buffalo.
+I am a postdoctoral research fellow at NIH Clinical Center under Dr. Ronald Summers guidance. My main research focuses on large-scale medical imaging analysis and medical computer vision. I got my PhD from Imaging and Data Science Lab under Prof. Gustavo Rohde guidance at University of Virginia in 2022. From 2021-2022, I did a research internship with the Cardiovascular Imaging Team at Siemens Healthineers, Princeton, NJ. Previously, I was a research associate @ ESC Lab under Prof. Wenyao Xu guidance from 2014-2015, University at Buffalo. I got my M.S. degree from University at Buffalo.
 
 
 <!---
