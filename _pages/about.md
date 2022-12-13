@@ -48,7 +48,7 @@ Professional Service and Award
 ----- 
 
 * University of Virginia Engineering Research Symposium 2021 Finalist, NSF BHI2019 Travel Award, ACM MobiHoc2015 Student Travel Grant
-* Reviewer: IEEE JBHI, MIC, JAMIA, IEEE ISBI, NeurIPS ML4H, NeurIPS TS4H, NeuroImage, IEEE TSC, IEEE INFOCOM, ACM IMWUT, IEEE&ACM CHASE, IEEE Access.
+* Reviewer: IEEE JBHI Journal, MIA Journal, JAMIA Journal, IEEE ISBI, NeurIPS ML4H, NeurIPS TS4H, NeuroImage, IEEE TSC, IEEE INFOCOM, ACM IMWUT, IEEE&ACM CHASE, IEEE Access.
 
 
 -----
