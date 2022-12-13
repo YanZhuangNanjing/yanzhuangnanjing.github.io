@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+I am a postdoctoral research fellow at NIH Clinical Center under Dr. Ronald Summers guidance. My research focuses on the large-scale medical imaging analysis and medical computer vision. I got my PhD from Imaging and Data Science Lab under Prof. Gustavo Rohde guidance at University of Virginia. From 2021-2022, I did a research internship with Cardiovascular Imaging team at Siemens Healthineers, Princeton, NJ. Previously, I was a research associate @ ESC Lab under Prof. Wenyao Xu guidance from 2014-2015, University at Buffalo. I got my M.S. degree from University at Buffalo.
+
+
+<!---
 My research interests are optimal transport learning for biomedical imaging analysis and medical computer vision. In addition, I am very interested in smart and connected health. I got my PhD from Imaging and Data Science Lab under Prof. Gustavo Rohde guidance, University of Virginia. Previously, I was a research associate @ ESC Lab under Prof. Wenyao Xu guidance from 2014-2015, University at Buffalo. I got my M.S. degree from University at Buffalo.
+-->
 
 
 News
@@ -43,7 +48,7 @@ Professional Service and Award
 ----- 
 
 * University of Virginia Engineering Research Symposium 2021 Finalist, NSF BHI2019 Travel Award, ACM MobiHoc2015 Student Travel Grant
-* Reviewer: IEEE JBHI, MIC, JAMIA, IEEE ISBI, NIPS ML4HL, NIPS TS4H, NeuroImage, IEEE TSC, IEEE INFOCOM, ACM IMWUT, IEEE&ACM CHASE, IEEE Access.
+* Reviewer: IEEE JBHI, MIC, JAMIA, IEEE ISBI, NeurIPS ML4H, NeurIPS TS4H, NeuroImage, IEEE TSC, IEEE INFOCOM, ACM IMWUT, IEEE&ACM CHASE, IEEE Access.
 
 
 -----
