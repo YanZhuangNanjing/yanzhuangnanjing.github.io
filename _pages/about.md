@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral research fellow at NIH Clinical Center. My research focuses on large-scale medical imaging analysis and medical computer vision. Specifically, I am interested in medical image segmentation and classification in few-sample setting, i.e., few-shot learning and domain adaptation.
+I am a postdoctoral research fellow at NIH Clinical Center. My research focuses on large-scale medical imaging analysis and medical computer vision. Specifically, I am interested in medical image segmentation and classification in the few-sample setting, i.e., few-shot learning and domain adaptation.
 
 I got my PhD from Imaging and Data Science Lab under Prof. Gustavo Rohde guidance at University of Virginia in 2022. From 2021-2022, I did a research internship with the Cardiovascular Imaging Team at Siemens Healthineers, Princeton, NJ. Previously, I was a research associate @ ESC Lab under Prof. Wenyao Xu guidance from 2014-2015, University at Buffalo. I got my M.S. degree from University at Buffalo.
 
