@@ -19,11 +19,9 @@ My research interests are optimal transport learning for biomedical imaging anal
 News
 -----
 
-1. Papers submitted to IEEE TIP, TBME, and Frontiers in Neurology - 03/2022
-2. U.S. patent filed - 02/2022
-3. Paper accepted at ICASSP2022 - 01/2022
-4. Paper submitted to Pattern Recognition. - 01/2022
-5. Paper accepted at Nature Communication. - 12/2021
+1. Papers submitted to IEEE TIP, TBME, and TPAMI - 03/2022
+2. Papers accepted at Pattern Recognition and TBME - 01/2022
+
 
 
 
