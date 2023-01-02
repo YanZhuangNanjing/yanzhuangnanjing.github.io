@@ -52,6 +52,6 @@ Professional Service and Award
 
 
 -----
-<p style="text-align:center"><sup>Last update: 05/2022. Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes. </sup></p>
+<p style="text-align:center"><sup>Last update: 01/2023. Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes. </sup></p>
 
 
