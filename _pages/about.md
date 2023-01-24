@@ -10,7 +10,7 @@ redirect_from:
 
 I am a postdoctoral research fellow from Imaging Biomarkers and Computer-Aided Diagnosis Laboratory at NIH Clinical Center. My research focuses on large-scale medical imaging analysis and medical computer vision. Specifically, I am interested in medical image segmentation and classification in the few-sample setting, i.e., few-shot learning and domain adaptation.
 
-I got my PhD from Imaging and Data Science Lab under Prof. Gustavo Rohde guidance at University of Virginia in 2022. From 2021-2022, I did a research internship with the Cardiovascular Imaging Team at Siemens Healthineers, Princeton, NJ. Previously, I was a research associate @ ESC Lab under Prof. Wenyao Xu guidance from 2014-2015, University at Buffalo. I got my M.S. degree from University at Buffalo.
+I got my PhD from Imaging and Data Science Lab under Prof. Gustavo Rohde guidance at University of Virginia. During my PhD training, I did a research internship on cardiovascular imaging at Siemens Healthineers, Princeton, NJ. Previously, I was a research associate @ ESC Lab under Prof. Wenyao Xu guidance from 2014-2015, University at Buffalo. I got my M.S. degree from University at Buffalo.
 
 
 <!---
@@ -21,7 +21,7 @@ My research interests are optimal transport learning for biomedical imaging anal
 News
 -----
 
-1. Papers submitted to IEEE TBME and IEEE TPAMI - 01/2023
+1. Papers submitted to IEEE JBHI and IEEE TPAMI - 01/2023
 2. Papers accepted at Pattern Recognition and IEEE TBME - 12/2022
 3. Papers accepted at Frontiers in Neurology - 11/2022
 4. U.S. patent filed - 10/2022
