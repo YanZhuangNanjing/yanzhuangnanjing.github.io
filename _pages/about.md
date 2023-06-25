@@ -32,8 +32,8 @@ News
 Recent Publications
 -----
 <ol reversed>
-  <li> Mohamed Abul Hassan, Xuwang Yin*, <strong><em>Yan Zhuang*</em></strong>, Chad M. Aldridge, Timothy McMurry, Andrew M. Southerland, and Gustavo K. Rohde. "A Digital Camera-based Eye Movement Assessment Method for NeuroEye Examination." IEEE Journal of Biomedical and Health Informatics (2023).</li>
   <li> Ahmed H. Shahin, <strong><em>Yan Zhuang*</em></strong>, and Noha El-Zehiry. "From Sparse to Precise: A Practical Editing Approach for Intracardiac Echocardiography Segmentation." arXiv preprint arXiv:2303.11041 (2023), accepted at MICCAI23 and work done at Siemens Healthineers.</li>
+  <li> Mohamed Abul Hassan, Xuwang Yin*, <strong><em>Yan Zhuang*</em></strong>, Chad M. Aldridge, Timothy McMurry, Andrew M. Southerland, and Gustavo K. Rohde. "A Digital Camera-based Eye Movement Assessment Method for NeuroEye Examination." IEEE Journal of Biomedical and Health Informatics (2023).</li>
   <li> Mohamed Abul Hassan, Chad M. Aldridge, <strong><em>Yan Zhuang*</em></strong>, Xuwang Yin, Timothy McMurry, Gustavo K. Rohde, and Andrew M. Southerland. "Approach to Quantify Eye Movements to Augment Stroke Diagnosis With a Non-Calibrated Eye-Tracker." IEEE Transactions on Biomedical Engineering (2022).</li>
   <li>* equal contribution</li>
 </ol>
