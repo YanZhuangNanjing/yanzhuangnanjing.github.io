@@ -20,9 +20,8 @@ My research interests are optimal transport learning for biomedical imaging anal
 
 News
 -----
-
-7. Papers accepted MICCAI23, IEEE JBHI, IEEE TMBE - 06/23
-6. Papers submitted to Pattern Recognition, CMIG, RSNA23 - 06/23
+7. Papers submitted to Pattern Recognition, CMIG, RSNA23 - 06/23
+6. Papers accepted MICCAI23, IEEE JBHI, IEEE TMBE - 06/23
 5. Papers submitted to IEEE JBHI and IEEE TPAMI - 01/2023
 4. Papers accepted at Pattern Recognition and IEEE TBME - 12/2022
 3. Papers accepted at Frontiers in Neurology - 11/2022
@@ -61,6 +60,6 @@ Professional Service and Award
 
 
 -----
-<p style="text-align:center"><sup>Last update: 01/2023. Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes. </sup></p>
+<p style="text-align:center"><sup>Last update: 06/2023. Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes. </sup></p>
 
 
