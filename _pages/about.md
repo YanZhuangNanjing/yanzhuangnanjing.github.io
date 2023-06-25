@@ -21,20 +21,29 @@ My research interests are optimal transport learning for biomedical imaging anal
 News
 -----
 
-1. Papers submitted to IEEE JBHI and IEEE TPAMI - 01/2023
-2. Papers accepted at Pattern Recognition and IEEE TBME - 12/2022
+7. Papers accepted MICCAI23, IEEE JBHI, IEEE TMBE - 06/23
+6. Papers submitted to Pattern Recognition, CMIG, RSNA23 - 06/23
+5. Papers submitted to IEEE JBHI and IEEE TPAMI - 01/2023
+4. Papers accepted at Pattern Recognition and IEEE TBME - 12/2022
 3. Papers accepted at Frontiers in Neurology - 11/2022
-4. U.S. patent filed - 10/2022
-5. Papers submitted to IEEE TIP - 06/2022
+2. U.S. patent filed - 10/2022
+1. Papers submitted to IEEE TIP - 06/2022
 
-
+Recent Publications
+-----
+<ol reversed>
+  <li> Mohamed Abul Hassan, Xuwang Yin*, <strong><em>Yan Zhuang*</em></strong>, Chad M. Aldridge, Timothy McMurry, Andrew M. Southerland, and Gustavo K. Rohde. "A Digital Camera-based Eye Movement Assessment Method for NeuroEye Examination." IEEE Journal of Biomedical and Health Informatics (2023).</li>
+  <li> Ahmed H. Shahin, <strong><em>Yan Zhuang*</em></strong>, and Noha El-Zehiry. "From Sparse to Precise: A Practical Editing Approach for Intracardiac Echocardiography Segmentation." arXiv preprint arXiv:2303.11041 (2023), accepted at MICCAI23 and work done at Siemens Healthineers.</li>
+  <li> Mohamed Abul Hassan, Chad M. Aldridge, <strong><em>Yan Zhuang*</em></strong>, Xuwang Yin, Timothy McMurry, Gustavo K. Rohde, and Andrew M. Southerland. "Approach to Quantify Eye Movements to Augment Stroke Diagnosis With a Non-Calibrated Eye-Tracker." IEEE Transactions on Biomedical Engineering (2022).</li>
+  <li>* equal contribution</li>
+</ol>
 
 
 Selected Publications
 -----
 <ol reversed>
   <li><strong><em>Yan Zhuang</em></strong>, Shiying Li, Mohammad Shifat-E-Rabbi, Abu Hasnat Mohammad Rubaiyat, Xuwang Yin, and Gustavo K. Rohde. "Local Sliced-Wasserstein Feature Sets for Illumination-invariant Face Recognition." arXiv preprint arXiv:2201.02980 (2022).</li>
-  <li>Mohammad Shifat-E-Rabbi, <strong><em>Yan Zhuang</em></strong>, Shiying Li, Abu Hasnat Mohammad Rubaiyat, Xuwang Yin, and Gustavo K. Rohde. "Invariance encoding in sliced-Wasserstein space for image classification with limited training data." arXiv preprint arXiv:2201.02980 (2022). submitted to Pattern Recognition.</li>
+  <li> Mohammad Shifat-E-Rabbi, <strong><em>Yan Zhuang</em></strong>, Shiying Li, Abu Hasnat Mohammad Rubaiyat, Xuwang Yin, and Gustavo K. Rohde. "Invariance encoding in sliced-Wasserstein space for image classification with limited training data." Pattern Recognition 137 (2023): 109268.</li>
   <li><strong><em>Yan Zhuang</em></strong>, Mark McDonald, Chad Aldridge, Mohamed Abul Hassan, Omar Uribe, Daniel Arteaga, Andrew Southerland, Gustavo Rohde. "Video-based Facial Weakness Analysis." IEEE Transactions on Biomedical Engineering (2021).</li>
   <li><strong><em>Yan Zhuang</em></strong>, Mark McDonald, Omar Uribe, Xuwang Yin, Dhyey Parikh, Andrew M. Southerland, and Gustavo Rohde. "Facial Weakness Analysis and Quantification Of Static Images." IEEE Journal of Biomedical and Health Informatics (2020).</li>
   <li>Feng Lin, <strong><em>Yan Zhuang</em></strong>, Chen Song, Aosen Wang, Yiran Li, Changzhan Gu, Changzhi Li, and Wenyao Xu, "SleepSense: a Noncontact and Cost-effective Sleep Monitoring System", IEEE Transactions on Biomedical Circuits and Systems (TBioCAS), vol. 11, issue 1, pp 189 - 202, 2017.</li>
