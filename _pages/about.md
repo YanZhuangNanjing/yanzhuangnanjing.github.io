@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+
+I am a postdoctoral research fellow from Imaging Biomarkers and Computer-Aided Diagnosis Laboratory at NIH Clinical Center. My research focuses on medical image analysis, medical computer vision, and mobile health, particularly in the development of AI (deep learning) models for medical image segmentation and computer-aided diagnosis.
+
+<!---
 I am a postdoctoral research fellow from Imaging Biomarkers and Computer-Aided Diagnosis Laboratory at NIH Clinical Center. My research focuses on large-scale medical imaging analysis and medical computer vision. Specifically, I am interested in medical image segmentation and classification in the few-sample setting, i.e., few-shot learning and domain adaptation.
+-->
 
 I got my PhD from Imaging and Data Science Lab under Prof. Gustavo Rohde guidance at University of Virginia. During my PhD training, I did a research internship with cardiovascular imaging team at Siemens Healthineers, Princeton, NJ. Previously, I was a research associate @ ESC Lab under Prof. Wenyao Xu guidance from 2014-2015, University at Buffalo. I got my M.S. degree from University at Buffalo.
 
@@ -35,8 +40,8 @@ Recent Publications
 <ol reversed>
   <li> <strong><em>Yan Zhuang</em></strong>, Benjamin Hou, Tejas Sudharshan Mathai, Pritam Mukherjee, Boah Kim, and Ronald M. Summers. "Semantic Image Synthesis for Abdominal CT." <em>accepted</em> at Deep Generative Models workshop at MICCAI 2023.</li>
   <li> <strong><em>Yan Zhuang</em></strong>, Benjamin Hou, Pritam Mukherjee and Ronald M. Summers. "Evaluating the Segment Anything Model for MRI Organ Segmentation Using a Simulated Interactive Setup." <em>accepted</em> at Radiological Society of North America Annual Meeting 2023.</li>
-  <li> Ahmed H. Shahin, <strong><em>Yan Zhuang</em></strong>, and Noha El-Zehiry. "From Sparse to Precise: A Practical Editing Approach for Intracardiac Echocardiography Segmentation." arXiv preprint arXiv:2303.11041 (2023), <em>accepted</em> at MICCAI23 (work done during Siemens Healthineers internship).</li>
-  <li> Mohamed Abul Hassan, Xuwang Yin*, <strong><em>Yan Zhuang*</em></strong>, Chad M. Aldridge, Timothy McMurry, Andrew M. Southerland, and Gustavo K. Rohde. "A Digital Camera-based Eye Movement Assessment Method for NeuroEye Examination." IEEE Journal of Biomedical and Health Informatics (2023). * equal contribution</li>
+  <li> Ahmed H. Shahin, <strong><em>Yan Zhuang</em></strong>, and Noha El-Zehiry. "From Sparse to Precise: A Practical Editing Approach for Intracardiac Echocardiography Segmentation." arXiv preprint arXiv:2303.11041 (2023), <em>accepted</em> at MICCAI23 (<em>work done during Siemens Healthineers research internship</em>).</li>
+  <li> Mohamed Abul Hassan, Xuwang Yin*, <strong><em>Yan Zhuang*</em></strong>, Chad M. Aldridge, Timothy McMurry, Andrew M. Southerland, and Gustavo K. Rohde. "A Digital Camera-based Eye Movement Assessment Method for NeuroEye Examination." IEEE Journal of Biomedical and Health Informatics (2023). <em>* equal contribution</em></li>
   <li> Mohamed Abul Hassan, Chad M. Aldridge, <strong><em>Yan Zhuang</em></strong>, Xuwang Yin, Timothy McMurry, Gustavo K. Rohde, and Andrew M. Southerland. "Approach to Quantify Eye Movements to Augment Stroke Diagnosis With a Non-Calibrated Eye-Tracker." IEEE Transactions on Biomedical Engineering (2022).</li>
 </ol>
 
