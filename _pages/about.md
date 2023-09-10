@@ -20,7 +20,7 @@ My research interests are optimal transport learning for biomedical imaging anal
 
 News
 -----
-7. Paper accepted at MICCAI2023, DGM4MICCAI2023, and RSNA2023 - 09/23
+7. Papers accepted at MICCAI2023, DGM4MICCAI2023, and RSNA2023 - 09/23
 6. Papers submitted to Pattern Recognition, CMIG, RSNA23 - 06/23
 5. Papers accepted at IEEE JBHI and IEEE TMBE - 06/23
 4. Papers submitted to IEEE JBHI and IEEE TPAMI - 01/23
@@ -28,14 +28,14 @@ News
 2. Papers accepted at Frontiers in Neurology - 11/22
 1. U.S. patent filed - 10/22
 
-<p style="text-align:right"><sup>Last update: 09/2023.</sup></p>
+<p style="text-align:right"><sup>Last update: 09/2023</sup></p>
 
 Recent Publications
 -----
 <ol reversed>
-  <li> <strong><em>Yan Zhuang</em></strong>, Benjamin Hou, Tejas Sudharshan Mathai, Pritam Mukherjee, Boah Kim, and Ronald M. Summers. "Semantic Image Synthesis for Abdominal CT." \textit{accepted} at Deep Generative Models workshop at MICCAI 2023.</li>
-  <li> <strong><em>Yan Zhuang</em></strong>, Benjamin Hou, Pritam Mukherjee and Ronald M. Summers. "Evaluating the Segment Anything Model for MRI Organ Segmentation Using a Simulated Interactive Setup." \textit{accepted} at Radiological Society of North America Annual Meeting 2023.</li>
-  <li> Ahmed H. Shahin, <strong><em>Yan Zhuang</em></strong>, and Noha El-Zehiry. "From Sparse to Precise: A Practical Editing Approach for Intracardiac Echocardiography Segmentation." arXiv preprint arXiv:2303.11041 (2023), accepted at MICCAI23 (work done during Siemens Healthineers internship).</li>
+  <li> <strong><em>Yan Zhuang</em></strong>, Benjamin Hou, Tejas Sudharshan Mathai, Pritam Mukherjee, Boah Kim, and Ronald M. Summers. "Semantic Image Synthesis for Abdominal CT." <em>accepted</em> at Deep Generative Models workshop at MICCAI 2023.</li>
+  <li> <strong><em>Yan Zhuang</em></strong>, Benjamin Hou, Pritam Mukherjee and Ronald M. Summers. "Evaluating the Segment Anything Model for MRI Organ Segmentation Using a Simulated Interactive Setup." <em>accepted</em> at Radiological Society of North America Annual Meeting 2023.</li>
+  <li> Ahmed H. Shahin, <strong><em>Yan Zhuang</em></strong>, and Noha El-Zehiry. "From Sparse to Precise: A Practical Editing Approach for Intracardiac Echocardiography Segmentation." arXiv preprint arXiv:2303.11041 (2023), <em>accepted</em> at MICCAI23 (work done during Siemens Healthineers internship).</li>
   <li> Mohamed Abul Hassan, Xuwang Yin*, <strong><em>Yan Zhuang*</em></strong>, Chad M. Aldridge, Timothy McMurry, Andrew M. Southerland, and Gustavo K. Rohde. "A Digital Camera-based Eye Movement Assessment Method for NeuroEye Examination." IEEE Journal of Biomedical and Health Informatics (2023). * equal contribution</li>
   <li> Mohamed Abul Hassan, Chad M. Aldridge, <strong><em>Yan Zhuang</em></strong>, Xuwang Yin, Timothy McMurry, Gustavo K. Rohde, and Andrew M. Southerland. "Approach to Quantify Eye Movements to Augment Stroke Diagnosis With a Non-Calibrated Eye-Tracker." IEEE Transactions on Biomedical Engineering (2022).</li>
 </ol>
@@ -59,7 +59,7 @@ Professional Service and Award
 ----- 
 
 * University of Virginia Engineering Research Symposium 2021 Finalist, NSF BHI2019 Travel Award, ACM MobiHoc2015 Student Travel Grant
-* Reviewer: IEEE JBHI Journal, MIA Journal, JAMIA Journal, IEEE ISBI, NeurIPS ML4H, NeurIPS TS4H, NeuroImage, IEEE TSC, IEEE INFOCOM, ACM IMWUT, IEEE&ACM CHASE, IEEE Access.
+* Reviewer: Journal of Medical Imaging, IEEE JBHI Journal, MIA Journal, JAMIA Journal, MICCAI2023, MIDL2023, IEEE ISBI2023, NeurIPS ML4H, NeurIPS TS4H, NeuroImage, IEEE TSC, IEEE INFOCOM, ACM IMWUT, IEEE&ACM CHASE, IEEE Access.
 
 
 -----
