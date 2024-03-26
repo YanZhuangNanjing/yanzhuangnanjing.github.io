@@ -9,14 +9,17 @@ redirect_from:
 ---
 
 
-I am a postdoctoral research fellow from Imaging Biomarkers and Computer-Aided Diagnosis Laboratory at NIH Clinical Center. My research focuses on medical image analysis, medical computer vision, and mobile health, particularly in the development of AI (deep learning) models for medical image segmentation and computer-aided diagnosis.
+I am a postdoctoral research fellow from Imaging Biomarkers and Computer-Aided Diagnosis Laboratory at NIH Clinical Center. My research is in the area of medical imaging analysis, focusing on the development of large-scale datasets and innovative computational tools to enhance clinical efficiency and streamline clinical workflows.
 
 <!---
+My research focuses on medical image analysis, medical computer vision, and mobile health, particularly in the development of AI (deep learning) models for medical image segmentation and computer-aided diagnosis.
+
 I am a postdoctoral research fellow from Imaging Biomarkers and Computer-Aided Diagnosis Laboratory at NIH Clinical Center. My research focuses on large-scale medical imaging analysis and medical computer vision. Specifically, I am interested in medical image segmentation and classification in the few-sample setting, i.e., few-shot learning and domain adaptation.
 -->
 
+<!---
 I got my PhD from Imaging and Data Science Lab under Prof. Gustavo Rohde guidance at University of Virginia. During my PhD training, I did a research internship with cardiovascular imaging team at Siemens Healthineers, Princeton, NJ. Previously, I was a research associate @ ESC Lab under Prof. Wenyao Xu guidance from 2014-2015, University at Buffalo. I got my M.S. degree from University at Buffalo.
-
+-->
 
 <!---
 My research interests are optimal transport learning for biomedical imaging analysis and medical computer vision. In addition, I am very interested in smart and connected health. I got my PhD from Imaging and Data Science Lab under Prof. Gustavo Rohde guidance, University of Virginia. Previously, I was a research associate @ ESC Lab under Prof. Wenyao Xu guidance from 2014-2015, University at Buffalo. I got my M.S. degree from University at Buffalo.
@@ -25,15 +28,15 @@ My research interests are optimal transport learning for biomedical imaging anal
 
 News
 -----
-7. Papers accepted at MICCAI2023, DGM4MICCAI2023, and RSNA2023 - 09/23
-6. Papers submitted to Pattern Recognition, CMIG, RSNA23 - 06/23
-5. Papers accepted at IEEE JBHI and IEEE TMBE - 06/23
-4. Papers submitted to IEEE JBHI and IEEE TPAMI - 01/23
-3. Papers accepted at Pattern Recognition and IEEE TBME - 12/22
-2. Papers accepted at Frontiers in Neurology - 11/22
-1. U.S. patent filed - 10/22
 
-<p style="text-align:right"><sup>Last update: 09/2023</sup></p>
+5. Papers submitted to Radiology, IEEE TMI, and MIDL2024 - 06/23
+4. Papers accepted at CMIG - 01/24
+3. Papers accepted at MICCAI2023, DGM4MICCAI2023, and RSNA2023 - 09/23
+2. Papers submitted to Pattern Recognition, CMIG, RSNA23 - 06/23
+1. Papers accepted at IEEE JBHI and IEEE TMBE - 06/23
+
+
+<p style="text-align:right"><sup>Last update: 03/2024</sup></p>
 
 Recent Publications
 -----
