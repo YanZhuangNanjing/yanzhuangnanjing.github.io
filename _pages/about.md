@@ -29,8 +29,8 @@ My research interests are optimal transport learning for biomedical imaging anal
 News
 -----
 
-5. Papers submitted to Radiology, IEEE TMI, and MIDL2024 - 06/23
-4. Papers accepted at CMIG - 01/24
+5. Papers submitted to Radiology, IEEE TMI, and MIDL2024 - 02/24
+4. Papers accepted at CMIG and IEEE TPAMI - 01/24
 3. Papers accepted at MICCAI2023, DGM4MICCAI2023, and RSNA2023 - 09/23
 2. Papers submitted to Pattern Recognition, CMIG, RSNA23 - 06/23
 1. Papers accepted at IEEE JBHI and IEEE TMBE - 06/23
