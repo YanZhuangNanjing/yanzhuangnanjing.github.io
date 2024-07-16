@@ -68,7 +68,7 @@ You can also find my [full publication here](https://yanzhuangnanjing.github.io/
 Professional Service and Awards
 ----- 
 * Associate editor: Journal of Medical Imaging (JMI), 01 2024 – Present  
-* Guest editor: JMI Special issue on Medical Imaging Theragnostics - in preparation  
+* Guest editor: JMI Special issue on Medical Imaging Theragnostics
 * TPC board member: Medical Imaging with Deep Learning (MIDL) 2023/2024  
 * Machine Learning for Health 2021 (ML4H2021) program committee  
 * NIH Fellows Award for Research Excellence (FARE) Award 2024  
