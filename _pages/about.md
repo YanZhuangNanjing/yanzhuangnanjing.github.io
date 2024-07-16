@@ -28,7 +28,9 @@ My research interests are optimal transport learning for biomedical imaging anal
 
 News
 -----
-
+8. We just released the MRISegmentator model for T1w images, you can check out here: [model](https://github.com/rsummers11/MRISegmentator), [paper](https://arxiv.org/abs/2405.05944)-07/24
+7. Papers submitted to Radiology, Medical Physics, npj Digital Medicine, Journal of Mathematical Imaging and Vision - 07/24
+6. Received NIH Fellows Award for Research Excellence (FARE) Award 2024 - 07/24
 5. Papers submitted to Radiology, IEEE TMI, and MIDL2024 - 02/24
 4. Papers accepted at CMIG and IEEE TPAMI - 01/24
 3. Papers accepted at MICCAI2023, DGM4MICCAI2023, and RSNA2023 - 09/23
@@ -36,7 +38,7 @@ News
 1. Papers accepted at IEEE JBHI and IEEE TMBE - 06/23
 
 
-<p style="text-align:right"><sup>Last update: 03/2024</sup></p>
+<p style="text-align:right"><sup>Last update: 07/2024</sup></p>
 
 Recent Publications
 -----
