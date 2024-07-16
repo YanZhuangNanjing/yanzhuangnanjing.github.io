@@ -65,9 +65,14 @@ Selected Publications
 You can also find my [full publication here](https://yanzhuangnanjing.github.io/full-publication/) or check out my [Google Scholar profile](https://scholar.google.com/citations?user=v562Dw4AAAAJ&hl=en&authuser=1).
 
 
-Professional Service and Award
+Professional Service and Awards
 ----- 
-
+* Associate editor: Journal of Medical Imaging (JMI), 01 2024 – Present  
+* Guest editor: JMI Special issue on Medical Imaging Theragnostics - in preparation  
+* TPC board member: Medical Imaging with Deep Learning (MIDL) 2023/2024  
+* Machine Learning for Health 2021 (ML4H2021) program committee  
+* NIH Fellows Award for Research Excellence (FARE) Award 2024  
+* NIH Visiting Fellow Award  
 * University of Virginia Engineering Research Symposium 2021 Finalist, NSF BHI2019 Travel Award, ACM MobiHoc2015 Student Travel Grant
 * Reviewer: Journal of Medical Imaging, IEEE JBHI Journal, MIA Journal, JAMIA Journal, MICCAI2023, MIDL2023, IEEE ISBI2023, NeurIPS ML4H, NeurIPS TS4H, NeuroImage, IEEE TSC, IEEE INFOCOM, ACM IMWUT, IEEE&ACM CHASE, IEEE Access.
 
