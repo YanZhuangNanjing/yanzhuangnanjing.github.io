@@ -62,7 +62,7 @@ Selected Publications
   <li><strong><em>Yan Zhuang</em></strong>, Chen Song, Aosen Wang, Feng Lin, Yiran Li, Changzhan Gu, Changzhi Li, and Wenyao Xu, "Non-invasive Sleep Event Recognition Using An Electromagnetic Probe", IEEE 12th Annual Body Sensor Networks Conference (BSN 15), Boston, Massachusetts, June 2015.</li>
 </ol>
 
-You can also find my [full publication here](https://yanzhuangnanjing.github.io/full-publication/) or check out my [Google Scholar profile](https://scholar.google.com/citations?user=v562Dw4AAAAJ&hl=en&authuser=1).
+You can check out my [Google Scholar profile](https://scholar.google.com/citations?user=v562Dw4AAAAJ&hl=en&authuser=1).
 
 
 Professional Service and Awards
