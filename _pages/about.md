@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a postdoctoral research fellow from Imaging Biomarkers and Computer-Aided Diagnosis Laboratory at NIH Clinical Center. My research is in the area of medical imaging analysis, focusing on the development of large-scale datasets and innovative computational tools to enhance clinical efficiency and streamline clinical workflows.
+I am a postdoctoral research fellow from Imaging Biomarkers and Computer-Aided Diagnosis Laboratory at NIH Clinical Center. My research is in the area of medical imaging analysis, focusing on the development of large-scale datasets and innovative computational tools to enhance clinical efficiency and streamline clinical workflows in radiology.
 
 <!---
 My research focuses on medical image analysis, medical computer vision, and mobile health, particularly in the development of AI (deep learning) models for medical image segmentation and computer-aided diagnosis.
