@@ -42,8 +42,8 @@ News
 Recent Publications
 -----
 <ol reversed>
-  <li> <strong><em>Yan Zhuang</em></strong>, Tejas Sudharshan Mathai, Pritam Mukherjee, Brandon Khoury, Boah Kim, Benjamin Hou, Nusrat Rabbee, and Ronald M. Summers. "MRISegmentator-Abdomen: A Fully Automated Multi-Organ and Structure Segmentation Tool for T1-weighted Abdominal MRI." arXiv preprint arXiv:2405.05944 (2024). [paper](https://arxiv.org/abs/2405.05944).</li>
-  <li> Kim, Boah, <strong><em>Yan Zhuang</em></strong>, Tejas Sudharshan Mathai, and Ronald M. Summers. "OTMorph: Unsupervised Multi-domain Abdominal Medical Image Registration Using Neural Optimal Transport." IEEE TMI (2024). [paper](https://ieeexplore.ieee.org/document/10621700)</li>
+  <li> <strong><em>Yan Zhuang</em></strong>, Tejas Sudharshan Mathai, Pritam Mukherjee, Brandon Khoury, Boah Kim, Benjamin Hou, Nusrat Rabbee, and Ronald M. Summers. "<a href="https://arxiv.org/abs/2405.05944" target="_blank"> MRISegmentator-Abdomen: A Fully Automated Multi-Organ and Structure Segmentation Tool for T1-weighted Abdominal MRI.</a> " arXiv preprint arXiv:2405.05944 (2024).</li>
+  <li> Kim, Boah, <strong><em>Yan Zhuang</em></strong>, Tejas Sudharshan Mathai, and Ronald M. Summers. "<a href="https://ieeexplore.ieee.org/document/10621700" target="_blank"> OTMorph: Unsupervised Multi-domain Abdominal Medical Image Registration Using Neural Optimal Transport.</a>" IEEE TMI (2024).</li>
   <li> Rubaiyat, Abu Hasnat Mohammad, Shiying Li, Xuwang Yin, Mohammad Shifat-E-Rabbi, <strong><em>Yan Zhuang</em></strong>, and Gustavo K. Rohde. "<a href="https://ieeexplore.ieee.org/abstract/document/10457552" target="_blank">End-to-end signal classification in signed cumulative distribution transform space.</a>", IEEE TPAMI (2024). </li>
 </ol>
 
