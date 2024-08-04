@@ -42,14 +42,14 @@ News
 Recent Publications
 -----
 <ol reversed>
-  <li> <strong><em>Yan Zhuang</em></strong>, Benjamin Hou, Tejas Sudharshan Mathai, Pritam Mukherjee, Boah Kim, and Ronald M. Summers. "Semantic Image Synthesis for Abdominal CT." <em>accepted</em> at Deep Generative Models workshop at MICCAI 2023.</li>
-  <li> <strong><em>Yan Zhuang</em></strong>, Benjamin Hou, Pritam Mukherjee and Ronald M. Summers. "Evaluating the Segment Anything Model for MRI Organ Segmentation Using a Simulated Interactive Setup." <em>accepted</em> at Radiological Society of North America Annual Meeting 2023.</li>
-  <li> Ahmed H. Shahin, <strong><em>Yan Zhuang</em></strong>, and Noha El-Zehiry. "From Sparse to Precise: A Practical Editing Approach for Intracardiac Echocardiography Segmentation." arXiv preprint arXiv:2303.11041 (2023), <em>accepted</em> at MICCAI23 (<em>work done during Siemens Healthineers research internship</em>).</li>
-  <li> Mohamed Abul Hassan, Xuwang Yin*, <strong><em>Yan Zhuang*</em></strong>, Chad M. Aldridge, Timothy McMurry, Andrew M. Southerland, and Gustavo K. Rohde. "A Digital Camera-based Eye Movement Assessment Method for NeuroEye Examination." IEEE Journal of Biomedical and Health Informatics (2023). <em>* equal contribution</em></li>
-  <li> Mohamed Abul Hassan, Chad M. Aldridge, <strong><em>Yan Zhuang</em></strong>, Xuwang Yin, Timothy McMurry, Gustavo K. Rohde, and Andrew M. Southerland. "Approach to Quantify Eye Movements to Augment Stroke Diagnosis With a Non-Calibrated Eye-Tracker." IEEE Transactions on Biomedical Engineering (2022).</li>
+  <li> <strong><em>Yan Zhuang</em></strong>, Tejas Sudharshan Mathai, Pritam Mukherjee, Brandon Khoury, Boah Kim, Benjamin Hou, Nusrat Rabbee, and Ronald M. Summers. "MRISegmentator-Abdomen: A Fully Automated Multi-Organ and Structure Segmentation Tool for T1-weighted Abdominal MRI." arXiv preprint arXiv:2405.05944 (2024).[paper](https://arxiv.org/abs/2405.05944)</li>
+  <li> Kim, Boah, <strong><em>Yan Zhuang</em></strong>, Tejas Sudharshan Mathai, and Ronald M. Summers. "OTMorph: Unsupervised Multi-domain Abdominal Medical Image Registration Using Neural Optimal Transport." IEEE TMI (2024). [paper](https://ieeexplore.ieee.org/document/10621700)</li>
+  <li> Rubaiyat, Abu Hasnat Mohammad, Shiying Li, Xuwang Yin, Mohammad Shifat-E-Rabbi, <strong><em>Yan Zhuang</em></strong>, and Gustavo K. Rohde. "End-to-end signal classification in signed cumulative distribution transform space." IEEE TPAMI (2024). [paper](https://ieeexplore.ieee.org/abstract/document/10457552)</li>
 </ol>
 
+You can check out my [Google Scholar profile](https://scholar.google.com/citations?user=v562Dw4AAAAJ&hl=en&authuser=1).
 
+<!---
 Selected Publications
 -----
 <ol reversed>
@@ -60,8 +60,8 @@ Selected Publications
   <li>Feng Lin, <strong><em>Yan Zhuang</em></strong>, Chen Song, Aosen Wang, Yiran Li, Changzhan Gu, Changzhi Li, and Wenyao Xu, "SleepSense: a Noncontact and Cost-effective Sleep Monitoring System", IEEE Transactions on Biomedical Circuits and Systems (TBioCAS), vol. 11, issue 1, pp 189 - 202, 2017.</li>
   <li><strong><em>Yan Zhuang</em></strong>, Chen Song, Aosen Wang, Feng Lin, Yiran Li, Changzhan Gu, Changzhi Li, and Wenyao Xu, "Non-invasive Sleep Event Recognition Using An Electromagnetic Probe", IEEE 12th Annual Body Sensor Networks Conference (BSN 15), Boston, Massachusetts, June 2015.</li>
 </ol>
+-->
 
-You can check out my [Google Scholar profile](https://scholar.google.com/citations?user=v562Dw4AAAAJ&hl=en&authuser=1).
 
 
 Professional Service and Awards
