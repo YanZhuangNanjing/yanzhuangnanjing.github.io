@@ -28,7 +28,7 @@ My research interests are optimal transport learning for biomedical imaging anal
 
 News
 -----
-7. MRISegmentator-Abdomen for T1w images: <a href="https://github.com/rsummers11/MRISegmentator" target="_blank">model</a>, [paper](https://arxiv.org/abs/2405.05944), dataset (coming soon!) - 07/24
+7. MRISegmentator-Abdomen for T1w images: <a href="https://github.com/rsummers11/MRISegmentator" target="_blank">model</a>, <a href="https://arxiv.org/abs/2405.05944" target="_blank">paper</a>, dataset (coming soon!) - 07/24
 6. Received NIH Fellows Award for Research Excellence (FARE) Award 2025 - 07/24
 5. Manuscripts accepted at RSNA24, Radiology, IEEE TMI - 07/24
 4. Papers submitted to Radiology, Medical Physics, npj Digital Medicine, Journal of Mathematical Imaging and Vision - 06/24
@@ -47,7 +47,7 @@ Recent Publications
   <li> Rubaiyat, Abu Hasnat Mohammad, Shiying Li, Xuwang Yin, Mohammad Shifat-E-Rabbi, <strong><em>Yan Zhuang</em></strong>, and Gustavo K. Rohde. "<a href="https://ieeexplore.ieee.org/abstract/document/10457552" target="_blank">End-to-end signal classification in signed cumulative distribution transform space.</a>", IEEE TPAMI (2024). </li>
 </ol>
 
-You can check my [GoogleScholar](https://scholar.google.com/citations?user=v562Dw4AAAAJ&hl=en&authuser=1) for the full publication. 
+You can check my <a href="https://scholar.google.com/citations?user=v562Dw4AAAAJ&hl=en&authuser=1" target="_blank">GoogleScholar</a> for the full publication. 
 
 <!---
 Selected Publications
