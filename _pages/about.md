@@ -55,7 +55,7 @@ Recent Publications
 
 You can check my <a href="https://scholar.google.com/citations?user=v562Dw4AAAAJ&hl=en&authuser=1" target="_blank">GoogleScholar</a> for the full publication. 
 
-Models & dataset
+Models & Datasets
 -----
 <ol reversed>
   <li> MRISegmentator-Abdomen for T1w images: <a href="https://github.com/rsummers11/MRISegmentator" target="_blank">model</a>, <a href="https://arxiv.org/abs/2405.05944" target="_blank">paper</a>, dataset (coming soon!)</li>
