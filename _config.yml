@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Everything should be made as simple as possible, but no simpler."
+title                    : ""Everything should be made as simple as possible, but not simpler.""
 title_separator          : "-"
 name                     : &name "Yan Zhuang"
 description              : &description "Post-doctoral research fellow at NIH CC"
