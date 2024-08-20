@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : " ''Everything should be made as simple as possible, but not simpler.'' - Einstein"
 title_separator          : "-"
-name                     : &name "Yan Zhuang"
+name                     : &name "Yan Zhuang, Ph.D."
 description              : &description "Post-doctoral research fellow at NIH CC"
 url                      : "//yanzhuang.me" # https://yanzhuangnanjing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
