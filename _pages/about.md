@@ -43,7 +43,7 @@ Preprints
 -----
 <ol reversed>
   <li> <strong><em>Yan Zhuang</em></strong>, Tejas Sudharshan Mathai, Pritam Mukherjee, Brandon Khoury, Boah Kim, Benjamin Hou, Nusrat Rabbee, and Ronald M. Summers. "<a href="https://arxiv.org/abs/2405.05944" target="_blank"> MRISegmentator-Abdomen: A Fully Automated Multi-Organ and Structure Segmentation Tool for T1-weighted Abdominal MRI.</a> " arXiv preprint arXiv:2405.05944 (2024). <a href="https://github.com/rsummers11/MRISegmentator" target="_blank"> model</a>, dataset (coming soon!) </li>
-  <li> Hassan, Mohamed Abul, <strong><em>Yan Zhuang</em></strong>, Mohammad Shifat-E-Rabbi, Chad Aldridge, Andrew Southerland, and Gustavo Rohde. "<a href="https://www.researchsquare.com/article/rs-4656842/v1" target="_blank"> Augmenting Early Stroke Diagnosis With an Eye-Tracker.</a>" Research Square (2024).</li>
+  <li> Hassan, Mohamed Abul, <strong><em>Yan Zhuang</em></strong>, Mohammad Shifat-E-Rabbi, Chad Aldridge, Andrew Southerland, and Gustavo Rohde. "<a href="https://www.researchsquare.com/article/rs-4656842/v1" target="_blank"> Augmenting Early Stroke Diagnosis With an Eye-Tracker.</a>" Research square preprint (2024).</li>
 </ol>
 
 Recent Publications
