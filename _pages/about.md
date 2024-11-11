@@ -30,16 +30,18 @@ My research interests are optimal transport learning for biomedical imaging anal
 
 News
 -----
-7. MRISegmentator-Abdomen for T1w images: <a href="https://github.com/rsummers11/MRISegmentator" target="_blank">model</a>, <a href="https://arxiv.org/abs/2405.05944" target="_blank">paper</a>, dataset (coming soon!) - 07/24
-6. Received NIH Fellows Award for Research Excellence (FARE) Award 2025 - 07/24
-5. Manuscripts accepted at RSNA24, Radiology, IEEE TMI - 07/24
-4. Papers submitted to Radiology, Medical Physics, npj Digital Medicine, Journal of Mathematical Imaging and Vision - 06/24
-3. Papers accepted at CMIG and IEEE TPAMI - 01/24
-2. Papers accepted at MICCAI2023, DGM4MICCAI2023, and RSNA2023 - 09/23
-1. Papers accepted at IEEE JBHI and IEEE TMBE - 06/23
+8. We are organizing MIDL25, please check out the <a href="https://2025.midl.io/call-for-papers" target="_blank">Call for Papers</a> and the full paper registration deadline 17 January 2025. - 11/24
+7. Happy to serve as an TPC reviewer for ISBI2025 -10/24
+6. We are organizing a special section on theranostics for the Journal of Medical Imaging, please check it out at <a href="https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/call-for-papers" target="_blank">this link</a> and mark your calendar for the submission opening in mid-November. -09/24
+5. MRISegmentator-Abdomen for T1w images: <a href="https://github.com/rsummers11/MRISegmentator" target="_blank">model</a>, <a href="https://arxiv.org/abs/2405.05944" target="_blank">paper</a>, dataset (coming soon!) - 07/24
+4. Received NIH Fellows Award for Research Excellence (FARE) Award 2025 - 07/24
+3. Manuscripts accepted at RSNA24, Radiology, IEEE TMI - 07/24
+2. Papers submitted to Radiology, Medical Physics, npj Digital Medicine, Journal of Mathematical Imaging and Vision - 06/24
+1. Papers accepted at CMIG and IEEE TPAMI - 01/24
 
 
-<p style="text-align:right"><sup>Last update: 07/2024</sup></p>
+
+<p style="text-align:right"><sup>Last update: 11/2024</sup></p>
 
 Preprints
 -----
