@@ -92,7 +92,7 @@ Professional Service and Awards
 * Machine Learning for Health 2021 (ML4H2021) program committee
 * Certificate of Merit Award at RSNA24 Scientific Poster Session
 * NIH Fellows Award for Research Excellence (FARE) Award 2024  
-* NIH Visiting Fellow Award  
+* NIH Visiting Fellow Award 2022/2023 
 * University of Virginia Engineering Research Symposium 2021 Finalist, NSF BHI2019 Travel Award, ACM MobiHoc2015 Student Travel Grant
 * Reviewer: Journal of Medical Imaging, IEEE JBHI Journal, MIA Journal, JAMIA Journal, MICCAI2023, MIDL2023, IEEE ISBI2023, NeurIPS ML4H, NeurIPS TS4H, NeuroImage, IEEE TSC, IEEE INFOCOM, ACM IMWUT, IEEE&ACM CHASE, IEEE Access.
 
