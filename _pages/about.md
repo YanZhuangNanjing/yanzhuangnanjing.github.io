@@ -30,6 +30,7 @@ My research interests are optimal transport learning for biomedical imaging anal
 
 News
 -----
+9. Received Certificate of Merit Scientific Poster Award at RSNA24 - 12/24 
 8. Happy to help organize MIDL25, please check out the <a href="https://2025.midl.io/call-for-papers" target="_blank">Call for Papers</a> and the full paper registration deadline is 17 January 2025. - 11/24
 7. Happy to serve as a TPC reviewer for <a href="https://biomedicalimaging.org/2025/" target="_blank">ISBI2025</a> -10/24 
 6. We are organizing a special section on theranostics for the Journal of Medical Imaging SPIE, please check it out at <a href="https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/call-for-papers" target="_blank">this link</a> and mark your calendar for the submission opening in mid-November. -09/24
@@ -41,7 +42,7 @@ News
 
 
 
-<p style="text-align:right"><sup>Last update: 11/2024</sup></p>
+<p style="text-align:right"><sup>Last update: 12/2024</sup></p>
 
 Preprints
 -----
