@@ -89,7 +89,8 @@ Professional Service and Awards
 * Guest editor: JMI Special issue on Medical Imaging Theragnostics
 * Program Chair: Medical Imaging with Deep Learning (MIDL) 2025
 * TPC board member: Medical Imaging with Deep Learning (MIDL) 2023/2024  
-* Machine Learning for Health 2021 (ML4H2021) program committee  
+* Machine Learning for Health 2021 (ML4H2021) program committee
+* Certificate of Merit Scientific Poster Award at RSNA24
 * NIH Fellows Award for Research Excellence (FARE) Award 2024  
 * NIH Visiting Fellow Award  
 * University of Virginia Engineering Research Symposium 2021 Finalist, NSF BHI2019 Travel Award, ACM MobiHoc2015 Student Travel Grant
