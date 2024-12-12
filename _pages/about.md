@@ -31,7 +31,7 @@ My research interests are optimal transport learning for biomedical imaging anal
 News
 -----
 9. Received Certificate of Merit Scientific Poster Award at RSNA24 - 12/24 
-8. Happy to help organize MIDL25, please check out the <a href="https://2025.midl.io/call-for-papers" target="_blank">Call for Papers</a> and the full paper registration deadline is 17 January 2025. - 11/24
+8. Happy to serve as a Program Chair to organize MIDL25, please check out the <a href="https://2025.midl.io/call-for-papers" target="_blank">Call for Papers</a> and the full paper registration deadline is 17 January 2025. - 11/24
 7. Happy to serve as a TPC reviewer for <a href="https://biomedicalimaging.org/2025/" target="_blank">ISBI2025</a> -10/24 
 6. We are organizing a special section on theranostics for the Journal of Medical Imaging SPIE, please check it out at <a href="https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/call-for-papers" target="_blank">this link</a> and mark your calendar for the submission opening in mid-November. -09/24
 5. MRISegmentator-Abdomen for T1w images: <a href="https://github.com/rsummers11/MRISegmentator" target="_blank">model</a>, <a href="https://arxiv.org/abs/2405.05944" target="_blank">paper</a>, dataset (coming soon!) - 07/24
@@ -87,6 +87,7 @@ Professional Service and Awards
 ----- 
 * Associate editor: Journal of Medical Imaging (JMI), 01 2024 – Present  
 * Guest editor: JMI Special issue on Medical Imaging Theragnostics
+* Program Chair: Medical Imaging with Deep Learning (MIDL) 2025
 * TPC board member: Medical Imaging with Deep Learning (MIDL) 2023/2024  
 * Machine Learning for Health 2021 (ML4H2021) program committee  
 * NIH Fellows Award for Research Excellence (FARE) Award 2024  
