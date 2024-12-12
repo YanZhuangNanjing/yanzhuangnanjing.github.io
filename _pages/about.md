@@ -30,7 +30,7 @@ My research interests are optimal transport learning for biomedical imaging anal
 
 News
 -----
-9. Received Certificate of Merit Scientific Poster Award at RSNA24 - 12/24 
+9. Received Certificate of Merit Award at RSNA24 Scientific Poster Session - 12/24 
 8. Happy to serve as a Program Chair to organize MIDL25, please check out the <a href="https://2025.midl.io/call-for-papers" target="_blank">Call for Papers</a> and the full paper registration deadline is 17 January 2025. - 11/24
 7. Happy to serve as a TPC reviewer for <a href="https://biomedicalimaging.org/2025/" target="_blank">ISBI2025</a> -10/24 
 6. We are organizing a special section on theranostics for the Journal of Medical Imaging SPIE, please check it out at <a href="https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/call-for-papers" target="_blank">this link</a> and mark your calendar for the submission opening in mid-November. -09/24
@@ -90,7 +90,7 @@ Professional Service and Awards
 * Program Chair: Medical Imaging with Deep Learning (MIDL) 2025
 * TPC board member: Medical Imaging with Deep Learning (MIDL) 2023/2024  
 * Machine Learning for Health 2021 (ML4H2021) program committee
-* Certificate of Merit Scientific Poster Award at RSNA24
+* Certificate of Merit Award at RSNA24 Scientific Poster Session
 * NIH Fellows Award for Research Excellence (FARE) Award 2024  
 * NIH Visiting Fellow Award  
 * University of Virginia Engineering Research Symposium 2021 Finalist, NSF BHI2019 Travel Award, ACM MobiHoc2015 Student Travel Grant
