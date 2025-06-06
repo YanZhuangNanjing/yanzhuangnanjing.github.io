@@ -30,19 +30,23 @@ My research interests are optimal transport learning for biomedical imaging anal
 
 News
 -----
-9. Received Certificate of Merit Award at RSNA24 Scientific Poster Session - 12/24 
-8. Happy to serve as a Program Chair to organize MIDL25, please check out the <a href="https://2025.midl.io/call-for-papers" target="_blank">Call for Papers</a> and the full paper registration deadline is 17 January 2025. - 11/24
-7. Happy to serve as a TPC reviewer for <a href="https://biomedicalimaging.org/2025/" target="_blank">ISBI2025</a> -10/24 
-6. We are organizing a special section on theranostics for the Journal of Medical Imaging SPIE, please check it out at <a href="https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/call-for-papers" target="_blank">this link</a> and mark your calendar for the submission opening in mid-November. -09/24
-5. MRISegmentator-Abdomen for T1w images: <a href="https://github.com/rsummers11/MRISegmentator" target="_blank">model</a>, <a href="https://arxiv.org/abs/2405.05944" target="_blank">paper</a>, dataset (coming soon!) - 07/24
+7. We are organizing the Learning with Longitudinal Medical Images and Data workshop at MICCAI25, please check it out at <a href=" https://ldtm-miccai.github.io/lmid2025/" target="_blank">this link</a> and mark your calendar for the submission. - 06/25
+6. Manuscripts accepted at JDIM, Radiology, Pattern Recognition - 04/25
+5. Received Certificate of Merit Award at RSNA24 Scientific Poster Session - 12/24 
+4. Happy to serve as a Program Chair to organize MIDL25, please check out the <a href="https://2025.midl.io/call-for-papers" target="_blank">Call for Papers</a> and the full paper registration deadline is 17 January 2025. - 11/24
+3. Happy to serve as a TPC reviewer for <a href="https://biomedicalimaging.org/2025/" target="_blank">ISBI2025</a> -10/24 
+2. We are organizing a special section on theranostics for the Journal of Medical Imaging SPIE, please check it out at <a href="https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/call-for-papers" target="_blank">this link</a> and mark your calendar for the submission opening in mid-November. -09/24
+1. MRISegmentator-Abdomen for T1w images: <a href="https://github.com/rsummers11/MRISegmentator" target="_blank">model</a>, <a href="https://arxiv.org/abs/2405.05944" target="_blank">paper</a>, dataset (coming soon!) - 07/24
+
+<!---
 4. Received NIH Fellows Award for Research Excellence (FARE) Award 2025 - 07/24
 3. Manuscripts accepted at RSNA24, Radiology, IEEE TMI - 07/24
 2. Papers submitted to Radiology, Medical Physics, npj Digital Medicine, Journal of Mathematical Imaging and Vision - 06/24
 1. Papers accepted at CMIG and IEEE TPAMI - 01/24
+-->
 
 
-
-<p style="text-align:right"><sup>Last update: 12/2024</sup></p>
+<p style="text-align:right"><sup>Last update: 06/2025</sup></p>
 
 Preprints
 -----
