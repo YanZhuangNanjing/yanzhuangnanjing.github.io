@@ -31,7 +31,7 @@ My research interests are optimal transport learning for biomedical imaging anal
 News
 -----
 6. Manuscripts accepted at MICCAI2025, AMAI@MICCAI25, and RSNA26 - 08/25
-5. Happy to help organize <a href="https://2025.midl.io/" target="_blank">MIDL25</a> at Salt Lake City and look forwarding for <a href="https://2026.midl.io/" target="_blank">MIDL26</a> at Taipei - 07/25
+5. Happy to help organize <a href="https://2025.midl.io/" target="_blank">MIDL25</a> at Salt Lake City and look forwarding to <a href="https://2026.midl.io/" target="_blank">MIDL26</a> at Taipei - 07/25
 4. We are organizing the Learning with Longitudinal Medical Images and Data workshop at MICCAI25, please check it out at <a href=" https://ldtm-miccai.github.io/lmid2025/" target="_blank">this link</a> and mark your calendar for the submission. - 06/25
 3. Manuscripts accepted at JDIM, Radiology, Pattern Recognition - 04/25
 2. Received Certificate of Merit Award at RSNA24 Scientific Poster Session - 12/24 
