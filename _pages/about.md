@@ -77,7 +77,7 @@ You can check my <a href="https://scholar.google.com/citations?user=v562Dw4AAAAJ
 Models & Datasets
 -----
 <ol reversed>
-  <li> MRISegmentator-Abdomen for T1w images: <a href="https://github.com/rsummers11/MRISegmentator" target="_blank">model</a>, <a href="https://arxiv.org/abs/2405.05944" target="_blank">paper</a>, <a href="https://nihcc.box.com/s/zbrocs18g9ctrl0gb4n3hq7dlotpuwg5" target="_blank">dataset</a></li>
+  <li> MRISegmenter for T1w images: <a href="https://github.com/rsummers11/MRISegmentator" target="_blank">model</a>, <a href="https://arxiv.org/abs/2405.05944" target="_blank">paper</a>, <a href="https://nihcc.box.com/s/zbrocs18g9ctrl0gb4n3hq7dlotpuwg5" target="_blank">dataset</a></li>
   <li> Segmentation of pelvic structures in T2 MRI: <a href="https://github.com/rsummers11/MRIPelvisSegmentationByTranslation" target="_blank">dataset</a>, <a href="https://www.sciencedirect.com/science/article/pii/S0895611124000120" target="_blank">paper</a></li>
   <li> Local sliced-wasserstein feature sets for 2D image: <a href="https://github.com/rohdelab/drcdt_face" target="_blank">code</a>, <a href="https://arxiv.org/abs/2202.10642" target="_blank">paper</a></li>    
 </ol>
