@@ -72,7 +72,7 @@ Recent Publications
   <li> Rubaiyat, Abu Hasnat Mohammad, Shiying Li, Xuwang Yin, Mohammad Shifat-E-Rabbi, <strong><em>Yan Zhuang</em></strong>, and Gustavo K. Rohde. "<a href="https://ieeexplore.ieee.org/abstract/document/10457552" target="_blank">End-to-end signal classification in signed cumulative distribution transform space.</a>", IEEE TPAMI (2024). </li>
 </ol>
 
-You can check my <a href="https://scholar.google.com/citations?user=v562Dw4AAAAJ&hl=en&authuser=1" target="_blank">GoogleScholar</a> for the full publication. 
+You can check my <a href="https://scholar.google.com/citations?hl=en&user=lHxtkDkAAAAJ" target="_blank">GoogleScholar</a> for the full publication. 
 
 Models & Datasets
 -----
