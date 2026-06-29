@@ -13,7 +13,7 @@ I am an instructor at <a href="https://icahn.mssm.edu/about/departments-offices/
 
 My research is medical imaging analysis, focusing on the development of large-scale datasets and innovative computational tools for radiology. 
 
-I am interested in working with strongly motivated postdoctoral researchers, medical students, and residents interested in medical imaging analysis using deep learning. Please see <a href="https://careers.mountsinai.org/jobs/3039272?lang=en-us" target="_blank">this link </a> for a current job opportunity.
+I am looking for highly motivated postdoctoral researchers, medical students, and residents interested in medical imaging analysis using deep learning. Please see <a href="https://careers.mountsinai.org/jobs/3039272?lang=en-us" target="_blank">this link </a> for a current job opportunity.
 
 <!---
 My research focuses on medical image analysis, medical computer vision, and mobile health, particularly in the development of AI (deep learning) models for medical image segmentation and computer-aided diagnosis.
