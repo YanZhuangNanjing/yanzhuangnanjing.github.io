@@ -84,6 +84,7 @@ Models & Datasets
 -----
 <ol reversed>
   <li> MRISegmenter for T1w images: <a href="https://github.com/rsummers11/MRISegmentator" target="_blank">model</a>, <a href="https://arxiv.org/abs/2405.05944" target="_blank">paper</a>, <a href="https://nihcc.box.com/s/zbrocs18g9ctrl0gb4n3hq7dlotpuwg5" target="_blank">dataset</a></li>
+  <li> Radiologist-verified abdominal organ-level abnormality CT dataset: <a href="https://github.com/rsummers11/LEAVS/tree/main" target="_blank">model</a>, <a href="https://link.springer.com/chapter/10.1007/978-3-032-04971-1_30" target="_blank">paper</a>, <a href="https://github.com/rsummers11/LEAVS/tree/main" target="_blank">dataset</a></li>
   <li> Segmentation of pelvic structures in T2 MRI: <a href="https://github.com/rsummers11/MRIPelvisSegmentationByTranslation" target="_blank">dataset</a>, <a href="https://www.sciencedirect.com/science/article/pii/S0895611124000120" target="_blank">paper</a></li>
   <li> Local sliced-wasserstein feature sets for 2D image: <a href="https://github.com/rohdelab/drcdt_face" target="_blank">code</a>, <a href="https://arxiv.org/abs/2202.10642" target="_blank">paper</a></li>    
 </ol>
@@ -110,7 +111,7 @@ Professional Service
 * Associate editor: Journal of Medical Imaging (JMI), 01 2024 – Present  
 * Guest editor: JMI Special issue on Medical Imaging Theragnostics
 * Program Chair: Medical Imaging with Deep Learning (MIDL) 2025
-* TPC board member: Medical Imaging with Deep Learning (MIDL) 2023/2024  
+* TPC board member: Medical Imaging with Deep Learning (MIDL) 2023/2024/2026  
 * Machine Learning for Health 2021 (ML4H2021) program committee
 
 Awards
