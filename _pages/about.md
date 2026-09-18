@@ -83,6 +83,7 @@ You can check my <a href="https://scholar.google.com/citations?hl=en&user=lHxtkD
 Models & Datasets
 -----
 <ol reversed>
+  <li> Landmark-Based Pancreas Sub-region Segmentation in CT: <a href="https://github.com/rsummers11/Pancreas_Landmarks_Segmentation" target="_blank">model</a>, <a href="https://link.springer.com/article/10.1007/s10278-025-01473-y" target="_blank">paper</a>, <a href="https://github.com/rsummers11/Pancreas_Landmarks_Segmentation" target="_blank">dataset</a></li>
   <li> MRISegmenter for T1w images: <a href="https://github.com/rsummers11/MRISegmentator" target="_blank">model</a>, <a href="https://arxiv.org/abs/2405.05944" target="_blank">paper</a>, <a href="https://nihcc.box.com/s/zbrocs18g9ctrl0gb4n3hq7dlotpuwg5" target="_blank">dataset</a></li>
   <li> Radiologist-verified abdominal organ-level abnormality CT dataset: <a href="https://github.com/rsummers11/LEAVS/tree/main" target="_blank">model</a>, <a href="https://link.springer.com/chapter/10.1007/978-3-032-04971-1_30" target="_blank">paper</a>, <a href="https://github.com/rsummers11/LEAVS/tree/main" target="_blank">dataset</a></li>
   <li> Segmentation of pelvic structures in T2 MRI: <a href="https://github.com/rsummers11/MRIPelvisSegmentationByTranslation" target="_blank">dataset</a>, <a href="https://www.sciencedirect.com/science/article/pii/S0895611124000120" target="_blank">paper</a></li>
